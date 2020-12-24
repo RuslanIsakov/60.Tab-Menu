@@ -25,3 +25,9 @@ audio:not([controls]){
 [hidden],template{
   display:none
 }
+a{
+  background-color:transparent
+}
+a:active,a:hover{
+  outline-width:0
+}

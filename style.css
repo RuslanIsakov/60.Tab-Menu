@@ -36,3 +36,13 @@ abbr[title]{
   text-decoration:underline;
   text-decoration:underline dotted
 }
+b,strong{
+  font-weight:bolder
+}
+dfn{
+  font-style:italic
+}
+mark{
+  background:#ff0;
+  color:#000
+}

@@ -55,3 +55,15 @@ sub,sup{
   position:relative;
   vertical-align:baseline
 }
+sub{
+  bottom:-0.25em
+}
+sup{
+  top:-0.5em
+}
+figure{
+  margin:1em 40px
+}
+img{
+  border-style:none
+}

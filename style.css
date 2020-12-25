@@ -31,3 +31,8 @@ a{
 a:active,a:hover{
   outline-width:0
 }
+abbr[title]{
+  border-bottom:none;
+  text-decoration:underline;
+  text-decoration:underline dotted
+}

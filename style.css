@@ -76,3 +76,10 @@ hr{
   height:0;
   overflow:visible
 }
+button,input,select,textarea,optgroup{
+  font:inherit;
+  margin:0
+}
+optgroup{
+  font-weight:bold
+}

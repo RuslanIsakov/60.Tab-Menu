@@ -67,3 +67,4 @@ figure{
 img{
   border-style:none
 }
+code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}hr{box-sizing:content-box;height:0;overflow:visible}

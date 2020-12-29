@@ -115,3 +115,4 @@ legend{
 textarea{
   overflow:auto
 }
+[type=checkbox],[type=radio]{padding:0}

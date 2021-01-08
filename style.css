@@ -201,3 +201,4 @@ a{
 .w3-striped tbody tr:nth-child(even){
   background-color:#f1f1f1
 }
+.w3-table-all tr:nth-child(odd){background-color:#fff}.w3-table-all tr:nth-child(even){background-color:#f1f1f1}

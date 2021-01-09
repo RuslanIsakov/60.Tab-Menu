@@ -207,4 +207,9 @@ a{
 .w3-table-all tr:nth-child(even){
   background-color:#f1f1f1
 }
-.w3-hoverable tbody tr:hover,.w3-ul.w3-hoverable li:hover{background-color:#ccc}.w3-centered tr th,.w3-centered tr td{text-align:center}
+.w3-hoverable tbody tr:hover,.w3-ul.w3-hoverable li:hover{
+  background-color:#ccc
+}
+.w3-centered tr th,.w3-centered tr td{
+  text-align:center
+}

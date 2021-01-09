@@ -219,4 +219,6 @@ a{
   text-align:left;
   vertical-align:top
 }
-.w3-table th:first-child,.w3-table td:first-child,.w3-table-all th:first-child,.w3-table-all td:first-child{padding-left:16px}
+.w3-table th:first-child,.w3-table td:first-child,.w3-table-all th:first-child,.w3-table-all td:first-child{
+  padding-left:16px
+}

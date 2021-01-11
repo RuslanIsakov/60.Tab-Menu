@@ -253,3 +253,4 @@ a{
 .w3-disabled *,:disabled *{
   pointer-events:none
 }
+.w3-btn.w3-disabled:hover,.w3-btn:disabled:hover{box-shadow:none}

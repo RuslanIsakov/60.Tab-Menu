@@ -301,4 +301,9 @@ a{
   border-bottom:1px solid #ccc;
   width:100%
 }
-.w3-select{padding:9px 0;width:100%;border:none;border-bottom:1px solid #ccc}
+.w3-select{
+  padding:9px 0;
+  width:100%;
+  border:none;
+  border-bottom:1px solid #ccc
+}

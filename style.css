@@ -312,3 +312,4 @@ a{
   display:inline-block;
   cursor:pointer
 }
+.w3-dropdown-hover:hover .w3-dropdown-content{display:block}

@@ -307,4 +307,8 @@ a{
   border:none;
   border-bottom:1px solid #ccc
 }
-.w3-dropdown-click,.w3-dropdown-hover{position:relative;display:inline-block;cursor:pointer}
+.w3-dropdown-click,.w3-dropdown-hover{
+  position:relative;
+  display:inline-block;
+  cursor:pointer
+}

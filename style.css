@@ -334,4 +334,9 @@ a{
   padding:0;
   z-index:1
 }
-.w3-check,.w3-radio{width:24px;height:24px;position:relative;top:6px}
+.w3-check,.w3-radio{
+  width:24px;
+  height:24px;
+  position:relative;
+  top:6px
+}

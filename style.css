@@ -351,3 +351,4 @@ a{
 .w3-bar-block .w3-dropdown-hover,.w3-bar-block .w3-dropdown-click{
   width:100%
 }
+.w3-bar-block .w3-dropdown-hover .w3-dropdown-content,.w3-bar-block .w3-dropdown-click .w3-dropdown-content{min-width:100%}

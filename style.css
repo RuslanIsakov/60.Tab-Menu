@@ -359,4 +359,6 @@ a{
   text-align:left;
   padding:8px 16px
 }
-.w3-main,#main{transition:margin-left .4s}
+.w3-main,#main{
+  transition:margin-left .4s
+}

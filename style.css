@@ -383,4 +383,11 @@ a{
   outline:0;
   width:600px
 }
-.w3-bar{width:100%;overflow:hidden}.w3-center .w3-bar{display:inline-block;width:auto}
+.w3-bar{
+  width:100%;
+  overflow:hidden
+}
+.w3-center .w3-bar{
+  display:inline-block;
+  width:auto
+}

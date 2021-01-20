@@ -423,4 +423,7 @@ a{
   display:block;
   width:100%
 }
-.w3-responsive{display:block;overflow-x:auto}
+.w3-responsive{
+  display:block;
+  overflow-x:auto
+}

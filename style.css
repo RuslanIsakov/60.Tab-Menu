@@ -406,3 +406,4 @@ a{
 .w3-bar .w3-button{
   white-space:normal
 }
+.w3-bar-block .w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}

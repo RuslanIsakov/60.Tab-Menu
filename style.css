@@ -523,4 +523,15 @@ a{
   .w3-col.l4{
     width:33.33333%
   }
-.w3-col.l5{width:41.66666%}.w3-col.l6{width:49.99999%}.w3-col.l7{width:58.33333%}.w3-col.l8{width:66.66666%}
+.w3-col.l5{
+  width:41.66666%
+  }
+  .w3-col.l6{
+    width:49.99999%
+  }
+  .w3-col.l7{
+    width:58.33333%
+  }
+  .w3-col.l8{
+    width:66.66666%
+  }

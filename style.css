@@ -572,3 +572,4 @@ a{
 .w3-cell{
   display:table-cell
 }
+.w3-cell-top{vertical-align:top}.w3-cell-middle{vertical-align:middle}.w3-cell-bottom{vertical-align:bottom}

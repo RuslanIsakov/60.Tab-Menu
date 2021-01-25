@@ -565,3 +565,4 @@ a{
 .w3-auto{
   max-width:1140px
 }
+.w3-cell-row{display:table;width:100%}.w3-cell{display:table-cell}

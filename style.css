@@ -581,4 +581,12 @@ a{
 .w3-cell-bottom{
   vertical-align:bottom
 }
-.w3-hide{display:none!important}.w3-show-block,.w3-show{display:block!important}.w3-show-inline-block{display:inline-block!important}
+.w3-hide{
+  display:none!important
+}
+.w3-show-block,.w3-show{
+  display:block!important
+}
+.w3-show-inline-block{
+  display:inline-block!important
+}

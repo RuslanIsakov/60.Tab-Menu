@@ -590,4 +590,8 @@ a{
 .w3-show-inline-block{
   display:inline-block!important
 }
-@media (max-width:1205px){.w3-auto{max-width:95%}}
+@media (max-width:1205px){
+  .w3-auto{
+    max-width:95%
+  }
+}

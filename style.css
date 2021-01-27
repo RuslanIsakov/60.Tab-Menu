@@ -603,4 +603,6 @@ a{
   .w3-modal{
     padding-top:30px
   }
-.w3-dropdown-hover.w3-mobile .w3-dropdown-content,.w3-dropdown-click.w3-mobile .w3-dropdown-content{position:relative}
+.w3-dropdown-hover.w3-mobile .w3-dropdown-content,.w3-dropdown-click.w3-mobile .w3-dropdown-content{
+  position:relative
+  }

@@ -620,3 +620,4 @@ a{
   width:100%
   }
 }
+@media (max-width:768px){.w3-modal-content{width:500px}.w3-modal{padding-top:50px}}

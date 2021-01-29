@@ -679,3 +679,4 @@ a{
   background-color:rgba(0,0,0,0.5);
   z-index:2
 }
+.w3-display-topleft{position:absolute;left:0;top:0}.w3-display-topright{position:absolute;right:0;top:0}

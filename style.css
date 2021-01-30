@@ -689,4 +689,13 @@ a{
   right:0;
   top:0
 }
-.w3-display-bottomleft{position:absolute;left:0;bottom:0}.w3-display-bottomright{position:absolute;right:0;bottom:0}
+.w3-display-bottomleft{
+  position:absolute;
+  left:0;
+  bottom:0
+}
+.w3-display-bottomright{
+  position:absolute;
+  right:0;
+  bottom:0
+}

@@ -743,5 +743,7 @@ a{
 .w3-display-hover{
   display:none
 }
-.w3-display-position{position:absolute}
+.w3-display-position{
+  position:absolute
+}
 .w3-circle{border-radius:50%}

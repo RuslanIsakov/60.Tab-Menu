@@ -751,4 +751,16 @@ a{
 }
 .w3-round-small{
   border-radius:2px
-}.w3-round,.w3-round-medium{border-radius:4px}.w3-round-large{border-radius:8px}.w3-round-xlarge{border-radius:16px}.w3-round-xxlarge{border-radius:32px}
+}
+.w3-round,.w3-round-medium{
+  border-radius:4px
+}
+.w3-round-large{
+  border-radius:8px
+}
+.w3-round-xlarge{
+  border-radius:16px
+}
+.w3-round-xxlarge{
+  border-radius:32px
+}

@@ -991,4 +991,9 @@ a{
 .w3-border-right{
   border-right:1px solid #ccc!important
 }
-.w3-topbar{border-top:6px solid #ccc!important}.w3-bottombar{border-bottom:6px solid #ccc!important}
+.w3-topbar{
+  border-top:6px solid #ccc!important
+}
+.w3-bottombar{
+  border-bottom:6px solid #ccc!important
+}

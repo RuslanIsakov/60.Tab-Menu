@@ -1075,4 +1075,7 @@ a{
   color:#000!important;
   background-color:#ffc107!important
 }
-.w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
+.w3-aqua,.w3-hover-aqua:hover{
+  color:#000!important;
+  background-color:#00ffff!important
+}

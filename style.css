@@ -1069,3 +1069,4 @@ a{
 }
 .w3-hover-none:hover{box-shadow:none!important}
 /* Colors */
+.w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}

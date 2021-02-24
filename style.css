@@ -1123,4 +1123,7 @@ a{
   color:#000!important;
   background-color:#ff9800!important
 }
-.w3-deep-orange,.w3-hover-deep-orange:hover{color:#fff!important;background-color:#ff5722!important}
+.w3-deep-orange,.w3-hover-deep-orange:hover{
+  color:#fff!important;
+  background-color:#ff5722!important
+}

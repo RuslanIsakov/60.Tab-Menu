@@ -1175,5 +1175,8 @@ a{
   color:#fff!important;
   background-color:#616161!important
 }
-.w3-pale-red,.w3-hover-pale-red:hover{color:#000!important;background-color:#ffdddd!important}
+.w3-pale-red,.w3-hover-pale-red:hover{
+  color:#000!important;
+  background-color:#ffdddd!important
+}
 .w3-pale-green,.w3-hover-pale-green:hover{color:#000!important;background-color:#ddffdd!important}

@@ -1190,5 +1190,7 @@ a{
 .w3-text-amber,.w3-hover-text-amber:hover{
   color:#ffc107!important
 }
-.w3-text-aqua,.w3-hover-text-aqua:hover{color:#00ffff!important}
+.w3-text-aqua,.w3-hover-text-aqua:hover{
+  color:#00ffff!important
+}
 .w3-text-blue,.w3-hover-text-blue:hover{color:#2196F3!important}

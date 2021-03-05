@@ -1199,5 +1199,7 @@ a{
 .w3-text-light-blue,.w3-hover-text-light-blue:hover{
   color:#87CEEB!important
 }
-.w3-text-brown,.w3-hover-text-brown:hover{color:#795548!important}
+.w3-text-brown,.w3-hover-text-brown:hover{
+  color:#795548!important
+}
 .w3-text-cyan,.w3-hover-text-cyan:hover{color:#00bcd4!important}

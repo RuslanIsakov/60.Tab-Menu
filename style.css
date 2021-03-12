@@ -1238,5 +1238,7 @@ a{
 .w3-text-deep-purple,.w3-hover-text-deep-purple:hover{
   color:#673ab7!important
 }
-.w3-text-red,.w3-hover-text-red:hover{color:#f44336!important}
+.w3-text-red,.w3-hover-text-red:hover{
+  color:#f44336!important
+}
 .w3-text-sand,.w3-hover-text-sand:hover{color:#fdf5e6!important}

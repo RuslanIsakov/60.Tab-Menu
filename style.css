@@ -1250,4 +1250,6 @@ a{
 .w3-text-yellow,.w3-hover-text-yellow:hover{
   color:#d2be0e!important
 }
-.w3-text-white,.w3-hover-text-white:hover{color:#fff!important}
+.w3-text-white,.w3-hover-text-white:hover{
+  color:#fff!important
+}

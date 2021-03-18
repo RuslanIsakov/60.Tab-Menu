@@ -1286,4 +1286,6 @@ a{
 .w3-border-blue-grey,.w3-hover-border-blue-grey:hover,.w3-border-blue-gray,.w3-hover-border-blue-gray:hover{
   border-color:#607d8b!important
 }
-.w3-border-green,.w3-hover-border-green:hover{border-color:#4CAF50!important}
+.w3-border-green,.w3-hover-border-green:hover{
+  border-color:#4CAF50!important
+}

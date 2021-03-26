@@ -1325,4 +1325,6 @@ a{
 .w3-border-teal,.w3-hover-border-teal:hover{
   border-color:#009688!important
 }
-.w3-border-yellow,.w3-hover-border-yellow:hover{border-color:#ffeb3b!important}
+.w3-border-yellow,.w3-hover-border-yellow:hover{
+  border-color:#ffeb3b!important
+}

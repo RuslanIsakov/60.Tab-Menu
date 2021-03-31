@@ -1345,4 +1345,7 @@ a{
 }
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{
   border-color:#ffe7e7!important
-}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
+}
+.w3-border-pale-green,.w3-hover-border-pale-green:hover{
+  border-color:#e7ffe7!important
+}
